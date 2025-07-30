@@ -23,7 +23,7 @@ Responsive Design: The layout is fully responsive and works well on desktop, tab
 How to Use
 Clone the repository:
 
-git clone https://github.com/your-username/ip-address-tracker.git
+git clone https://github.com/anandx00/ip-address-tracker.git
 
 Open the index.html file in your web browser.
 
