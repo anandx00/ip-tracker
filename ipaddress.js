@@ -71,7 +71,6 @@ search_input.addEventListener('keypress', function (e) {
     }
 });
 
-// 4. Load the initial IP data when the page loads
 window.addEventListener('load', () => {
     searchIp(); // Search for the user's own IP on load
 });
